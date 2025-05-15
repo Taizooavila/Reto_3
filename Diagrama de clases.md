@@ -26,7 +26,7 @@ direction TB
       +_init_()
   }
   class Postre{
-      +bool porcion/molde
+      +int porcion/molde
       +_init_()
   }
   Orden *-- MenuItems
