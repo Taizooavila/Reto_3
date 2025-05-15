@@ -6,6 +6,7 @@ direction TB
   class Orden {
       +list items
       +_init_()
+      +Ordenar()
   }
   class MenuItems{
     +str nombre
