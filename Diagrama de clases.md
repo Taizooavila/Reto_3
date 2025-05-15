@@ -7,6 +7,7 @@ direction TB
       +list items
       +_init_()
       +ordenar()
+      +precio_total()
   }
   class MenuItems{
     +str nombre
