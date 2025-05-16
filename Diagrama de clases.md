@@ -15,7 +15,6 @@ direction TB
       +_init_()
   }
   class Bebidas {
-    +bool azucar
       +str tamaño
       +_init_()
   }
