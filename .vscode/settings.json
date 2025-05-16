@@ -1,0 +1,13 @@
+{
+    "vscode_vibrancy.opacity": 0,
+    "vscode_vibrancy.type": "acrylic",
+    "vscode_vibrancy.theme": "Tokyo Night Storm",
+    "workbench.colorTheme": "Arcane Jinx",
+    "workbench.preferredDarkColorTheme": "EVA Unit-01 Berserk",
+    "workbench.preferredHighContrastColorTheme": "Aim-kai🌙",
+    "workbench.iconTheme": "vs-minimal",
+    "style.opacity": 0.9,
+    "style.animation.use-switch-animation": true,
+    "style.animation.switch-cycle": 600,
+    "window.autoDetectColorScheme": true
+}
